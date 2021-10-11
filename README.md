@@ -1,3 +1,3 @@
 # kalkulator-javascript
 
-<img src="calculator.jpg">
+<img src="IMG_20211011_163629.jpg">
